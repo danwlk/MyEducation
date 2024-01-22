@@ -4,5 +4,6 @@ PURPOSE OF PROJECT: Teachers can use this software to create their class, add an
 VERSION or DATE: ver. 2022
 HOW TO START THIS PROJECT: run .java
 AUTHORS: Doyup Kim
-USER INSTRUCTIONS: Download .java and .class. Then, run .java.
+
+USER INSTRUCTIONS: Download .java and .class. Then, run .java in your preferred IDE. I suggest BlueJ
 ---------------------------------------------------------------------------------
